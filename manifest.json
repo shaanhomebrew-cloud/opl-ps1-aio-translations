@@ -1,0 +1,23 @@
+{
+  "version": "2026-01-15",
+  "languages": {
+    "en-US":  { "version": 1, "name": "English",             "file": "en-US.json"  },
+    "pt-BR":  { "version": 1, "name": "Português (Brasil)",  "file": "pt-BR.json"  },
+    "de-DE":  { "version": 1, "name": "Deutsch",             "file": "de-DE.json"  },
+    "es-ES":  { "version": 1, "name": "Español",             "file": "es-ES.json"  },
+    "fr-FR":  { "version": 1, "name": "Français",            "file": "fr-FR.json"  },
+    "it-IT":  { "version": 1, "name": "Italiano",            "file": "it-IT.json"  },
+    "nl-NL":  { "version": 1, "name": "Nederlands",          "file": "nl-NL.json"  },
+    "sv-SE":  { "version": 1, "name": "Svenska",             "file": "sv-SE.json"  },
+    "pl-PL":  { "version": 1, "name": "Polski",              "file": "pl-PL.json"  },
+    "ru-RU":  { "version": 1, "name": "Русский",             "file": "ru-RU.json"  },
+    "uk-UA":  { "version": 1, "name": "Українська",          "file": "uk-UA.json"  },
+    "tr-TR":  { "version": 1, "name": "Türkçe",              "file": "tr-TR.json"  },
+    "ar-SA":  { "version": 1, "name": "العربية",             "file": "ar-SA.json"  },
+    "fil-PH": { "version": 1, "name": "Filipino",            "file": "fil-PH.json" },
+    "ja-JP":  { "version": 1, "name": "日本語",                "file": "ja-JP.json"  },
+    "ko-KR":  { "version": 1, "name": "한국어",               "file": "ko-KR.json"  },
+    "zh-CN":  { "version": 1, "name": "简体中文",              "file": "zh-CN.json"  },
+    "id-ID":  { "version": 1, "name": "Bahasa Indonesia",    "file": "id-ID.json"  }
+  }
+}
